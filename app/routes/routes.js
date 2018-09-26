@@ -5,7 +5,6 @@ module.exports = function (app) {
     // first end point
     app.post('/ticker',async (req, res) => {
 
-        console.log(req.body)
      let body = req.body;
      let maximumRank = 1000;
      let defaultAmount = 100;
