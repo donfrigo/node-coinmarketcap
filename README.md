@@ -12,4 +12,4 @@ A nodeJS API that expands the functionality of the CoinmarketCap api.
 ## Endpoints:
 
 - **[<code>POST</code> ticker](https://github.com/donfrigo/node-coinmarketcap/blob/master/documentation/ticker.md)**
-- **[<code>GET</code> ticker/:symbol](https://github.com/donfrigonode-coinmarketcap/blob/master/documentation/symbol.md)**
+- **[<code>GET</code> ticker/:symbol](https://github.com/donfrigo/node-coinmarketcap/blob/master/documentation/symbol.md)**
