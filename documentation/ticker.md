@@ -1,5 +1,3 @@
-# Photo Resources
-
     POST ticker
 
 ## Description

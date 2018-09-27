@@ -1,5 +1,3 @@
-# User Resources
-
     GET ticker/:symbol
 
 ## Description
